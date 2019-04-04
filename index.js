@@ -21,4 +21,6 @@ function currentLine(katzDeliLine){
     } return "The line is currently:" + everybody.join();
   }
 }
+
+console.log(currentLine(["Jake", "Molly"]))
   
