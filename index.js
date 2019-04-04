@@ -23,4 +23,5 @@ function currentLine(katzDeliLine){
 }
 
 console.log(currentLine(["Jake", "Molly"]))
+console.log(currentLine(["Olivia", "Zach"]))
   
